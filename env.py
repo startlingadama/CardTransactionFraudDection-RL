@@ -30,6 +30,8 @@ class FraudTransactionEnv(gym.Env):
             reward = 1.0 
         elif action == 0 and label == 0:
             reward = 1.0 
+        elif action == 1 and label == 0:
+            reward = -5.0
         else:
             reward = -10.0 
 
@@ -39,4 +41,6 @@ class FraudTransactionEnv(gym.Env):
         done = False 
         info = {}
 
+        if action == 1 and label == 1:
+            done = True
         return next_state, reward, done, info

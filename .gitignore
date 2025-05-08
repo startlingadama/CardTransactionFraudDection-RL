@@ -4,3 +4,4 @@ note.txt
 __pycache__/
 .ipynb_checkpoints/
 models\__pycache__/
+data/
