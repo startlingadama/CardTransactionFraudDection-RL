@@ -43,5 +43,8 @@ This project is licensed under the MIT License.
 * Credit card fraud detection dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 ## Developer:
- - **Adama Coulibaly**: AI/ML Engineer
+ - **Adama Coulibaly**
+ - **Sinaly Kanadjigui**
+ - **SADOG Imane**
+ - **Bahaya Radia**
 
