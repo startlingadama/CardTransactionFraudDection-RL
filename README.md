@@ -44,7 +44,7 @@ This project is licensed under the MIT License.
 
 ## Developer:
  - **Adama Coulibaly**
- - **Sinaly Kanadjigui**
+ - **Sinaly KAANADJIGUI**
  - **SADOG Imane**
  - **Bahaya Radia**
 
